@@ -1,0 +1,155 @@
+
+body,
+html {
+  width: 100%;
+  height: 100%; 
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: #F05F44; 
+}
+
+.faded {
+  color: rgba(255, 255, 255, 0.8); 
+}
+
+header.startup {
+  background-position: center;
+  background-image: url("header.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+header.startup hr {
+  margin-top: 200px;
+  margin-bottom: 30px; 
+}
+
+header.startup h1 {
+  font-size: 2rem; 
+}
+
+/* Know More Button */
+.btn {
+  color: #02aab0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-xl {
+  padding: 0.5rem 2rem; 
+}
+
+.btn-primary {
+  background-color: white;
+  border-color: #02aab0; }
+
+.btn-primary:hover {
+  background-color: #02aab0;
+  border-color: #02aab0;
+  color: white;
+  border-width: 2px;
+  cursor: pointer;
+}
+/* End of Know More Button */
+
+
+/* See Live Button */
+.btnsl {
+  color: #02aab0;
+  border: 2px solid transparent;
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btnsl-xl {
+  padding: 0.5rem 1rem; 
+}
+
+.btnsl-primary {
+  background-color: white;
+  border-color: #02aab0; }
+
+.btnsl-primary:hover {
+  background-color: #02aab0;
+  border-color: #02aab0;
+  color: white;
+  border-width: 2px;
+  cursor: pointer;
+}
+/* End of See Live Button */
+
+
+/* Sournce Code Button */
+.btnsc {
+  color: #02aab0;
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+  cursor: pointer;
+  padding-left: 1rem; 
+}
+/* End of Sournce Code Button */
+
+
+/* View Resume Button */
+.btnabout {
+  color: white;  
+  font-size: 1.2rem;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btnabout:hover {
+  color: #02aab0;
+  background-color: white;
+  font-size: 1.2rem;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btnabout-brd {
+  border: 1px solid transparent;
+  border-width: 2px;
+  border-color: white;
+  padding: 0.5rem 2rem;
+}
+/* End of View Resume Button */
+
+.footer {
+  height: 15rem;
+  background: #333;
+}
+
+.line {
+  max-width: 555px;
+  border-top: 2px solid hsla(0,0%,100%,.1);
+  border-top-color: rgba(255, 255, 255, 0.1);
+  border-top-style: solid;
+  border-top-width: 2px;
+
+}
+
+.cl {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin-bottom: 3.2rem;
+    text-align: left;
+    }
+  }
+.ab {
+    /*background-color: #02aab0;*/
+    background: linear-gradient(#02aab0, #00cdac);
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+  );
+}
+  
