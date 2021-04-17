@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1,IL: ספורט ONE
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14775
+#EXTINF:-1,IL: ספורט 1 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/172324
+#EXTINF:-1,IL: ספורט 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/172322
+#EXTINF:-1,IL: ספורט 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/196394
+#EXTINF:-1,IL: ספורט 4 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/172320
+#EXTINF:-1,IL: ספורט 5
+http://skylogic.site:8080/esterichannel50con/36cb6c13/172323
+#EXTINF:-1,IL: ספורט 5 פלוס HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/14789
+#EXTINF:-1 tvg-id="" tvg-name="UK: CBS ACTION HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: CBS ACTION HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/10617
+#EXTINF:-1 tvg-id="cbsdrama.uk" tvg-name="UK: CBS Drama HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: CBS Drama HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1123
+#EXTINF:-1 tvg-id="cbsjustice.uk" tvg-name="UK: CBS Justice" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: CBS Justice
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1122
+#EXTINF:-1 tvg-id="cbsreality.uk" tvg-name="UK: CBS Reality" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: CBS Reality
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1121
+#EXTINF:-1 tvg-id="" tvg-name="UK: CBSN News HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: CBSN News HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/11582
+#EXTINF:-1 tvg-id="" tvg-name="US: DIY HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",US: DIY HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/6511
+#EXTINF:-1 tvg-id="" tvg-name="US: DIY Network HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",US: DIY Network HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/2305
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOME +" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Israel",IL: HOME +
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163453
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT #" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/07ac2f57883aaebbd342a16c2a209ce7.png" group-title="Israel",IL: HOT #
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163448
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d23d10409c27c8654080dbf477b96d8e.png" group-title="Israel",IL: HOT 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/90952
+#EXTINF:-1 tvg-id="" tvg-name="IL: HOT C4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/46d2637e270cd62046597e058ff1152f.png" group-title="Israel",IL: HOT C4
+http://skylogic.site:8080/esterichannel50con/36cb6c13/171758
+#EXTINF:-1 tvg-id="" tvg-name="IL: Yes Travel Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Israel",IL: Yes Travel Channel
+http://skylogic.site:8080/esterichannel50con/36cb6c13/171743
+#EXTINF:-1 tvg-id="" tvg-name="IL Yes Travel Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of LifeStyle",IL Yes Travel Channel
+http://skylogic.site:8080/esterichannel50con/36cb6c13/274394
